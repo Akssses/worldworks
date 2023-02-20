@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-![desktop screen1](./preview/mob-preview1.png)
+![desktop screen1](./preview/preview1.png)
 ![desktop screen2](./preview/preview2.png)
 ![desktop screen3](./preview/preview2.png)
 
